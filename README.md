@@ -15,8 +15,8 @@ Use len() method to get the number of rows and columns.
 Print the output.
 ## PROGRAM:
 ```
-DEVELOPED BY : Athmaj Venugopal
-REGISTER NUMBER : 22007603
+DEVELOPED BY : K SAGAR KRISHNA
+REGISTER NUMBER : 22006940
 '''
 import pandas as pd
 df = pd.read_csv('data.csv')
